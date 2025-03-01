@@ -18,7 +18,8 @@ Los 15 Retos Hacking para protAAPP en RootedCON (hacking challenge):
 15. El Código pintado en la camiseta.
 
 El enunciado de todos los retos está en el fichero HackTheQuestion.pdf
-No es necesario instalar nada para solucionarlos. Existen recursos on-line para resolverlos todos.
+En los .zip están los ficheros objeto de cada reto
+No es necesario instalar nada para solucionarlos. Existen recursos on-line para poder resolverlos todos.
 
 Trata de aprender. Si no te salen a la primera,'Try harder' (que es lema de un buen hacker).
 Pero no te desesperes. 
