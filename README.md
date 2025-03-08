@@ -19,7 +19,7 @@ Esto son los 15 Retos Hacking para protAAPP en RootedCON (hacking challenge):
 
 El enunciado de todos los retos está en el fichero HackTheQuestion.pdf
 En los .zip están los ficheros objeto de cada reto.
-No es necesario instalar nada para solucionarlos. Existen recursos on-line para poder resolverlos cada reto.
+No es necesario instalar nada para solucionarlos. Existen recursos on-line para poder resolver cada reto.
 
 Trata de aprender. Si no te salen a la primera,'Try harder' (que es lema de todo buen hacker).
 Si no te salen a la segunda, 'Try harder' otra vez. Pero no te desesperes. Es posible que en unos días suba las soluciones ;)
