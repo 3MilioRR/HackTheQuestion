@@ -1,5 +1,5 @@
 # HackTheQuestion
-Los 15 Retos Hacking para protAAPP en RootedCON (hacking challenge):
+Esto son los 15 Retos Hacking para protAAPP en RootedCON (hacking challenge):
 
 01. Descifra el código
 02. El QR misterioso
@@ -18,8 +18,8 @@ Los 15 Retos Hacking para protAAPP en RootedCON (hacking challenge):
 15. El Código pintado en la camiseta.
 
 El enunciado de todos los retos está en el fichero HackTheQuestion.pdf
-En los .zip están los ficheros objeto de cada reto
-No es necesario instalar nada para solucionarlos. Existen recursos on-line para poder resolverlos todos.
+En los .zip están los ficheros objeto de cada reto.
+No es necesario instalar nada para solucionarlos. Existen recursos on-line para poder resolverlos cada reto.
 
-Trata de aprender. Si no te salen a la primera,'Try harder' (que es lema de un buen hacker).
-Pero no te desesperes. 
+Trata de aprender. Si no te salen a la primera,'Try harder' (que es lema de todo buen hacker).
+Si no te salen a la segunda, 'Try harder' otra vez. Pero no te desesperes. Es posible que en unos días suba las soluciones ;)
